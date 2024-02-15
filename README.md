@@ -5,12 +5,12 @@ Make the tests pass for CRUD and search. ✔
 Learn Ruby on Rails from scratch with this project! ✔
 
 ![me](me.png)
-![example](example)
-![testpass](tests)
+![example](example.jpg)
+![testpass](tests.jpg)
 
 # What I did:
 
-Initialize Environment
+Initialize Environment:  
 How to run my version:
 bundle install
 rails db:migrate
